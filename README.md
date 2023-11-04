@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hi there and welcome! 👋
 
-<!--
-**mysticitgirl/mysticitgirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-Here are some ideas to get you started:
+A little about me:
 
 - 🔭 I’m currently working on improving my Git skills.
 - 🌱 I’m currently studying for my AWS Solutions Architect Associate.
@@ -13,3 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: 
 
+<!--
+**mysticitgirl/mysticitgirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:-->
