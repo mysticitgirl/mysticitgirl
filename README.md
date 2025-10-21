@@ -6,7 +6,7 @@ A little about me:
 - 🌱 I’m  studying for Master of Cyber Security degree.
 - 💬 Ask me about OSINT/Cyber/etc...
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm into genealogy and can trace my family back to the Pendle Witches of 1612 at Lancaster Castle.
+- ⚡ Fun fact: I'm into genealogy and can trace my family back to my 12th GGrandmother Jane Bulcock who died in the Gallows as one of the Pendle Witches of 1612 (at Lancaster Castle).
 
 <!--
 **mysticitgirl/mysticitgirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
